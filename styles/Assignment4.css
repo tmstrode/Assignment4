@@ -1,0 +1,44 @@
+h2 {text-align: center;}
+
+#assn4picture2 {padding: 15pt; align-content: center;}
+
+#assn4picture1 {padding: 15pt; align-content: center;}
+
+
+section.section1
+    {
+        background-color: #FFB3B3;
+        visibility: hidden;
+        overflow: scroll;
+        width: 600px;
+        height: 250px;
+        float: left;
+        position: absolute;
+}
+
+.element1 {overflow: scroll;}
+
+section.section2
+    {
+        background-color: #66FF66;
+        visibility: hidden;
+        overflow: scroll;
+        width: 600px;
+        height: 250px;
+        float: left;
+        position: absolute;
+    }
+
+
+.element2 {overflow: scroll;}
+
+footer
+    {
+        font-family: sans-serif;
+        position: absolute;
+        overflow: auto;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: left;
+    }
